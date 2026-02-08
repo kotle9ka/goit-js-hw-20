@@ -1,5 +1,3 @@
-import './style.css';
-
 const API_KEY = '54253404-642d08b4e9274d1de4d38485e';
 const BASE_URL = 'https://pixabay.com/api/';
 
